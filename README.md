@@ -9,7 +9,7 @@ project lion The Origin - Java Spring Boot 5조의 스터디 공유 공간입니
 - 자유 스터디 내용
 - IT 관심사 및 동향
 
-### Peer Group 5의 Notion
+### Peer Group 5의 Notion 🌟
 [Peer Group 5의 Notion ⭐](https://www.notion.so/Peer-Group-5-7f096fe5c47640a285821b3fd7f8b0c2)
 
 ## Java Spring Boot Course 🗨
